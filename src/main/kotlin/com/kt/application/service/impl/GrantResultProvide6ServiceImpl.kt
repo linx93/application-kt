@@ -1,10 +1,9 @@
-package com.kt.applicationkt.service.impl;
+package com.kt.application.service.impl;
 
-import com.kt.applicationkt.model.po.GrantResultProvide6;
-import com.kt.applicationkt.mapper.GrantResultProvide6Mapper;
-import com.kt.applicationkt.service.GrantResultProvide6Service;
+import com.kt.application.model.po.GrantResultProvide6;
+import com.kt.application.mapper.GrantResultProvide6Mapper;
+import com.kt.application.service.GrantResultProvide6Service;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service;
 
 /**

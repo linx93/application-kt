@@ -1,4 +1,4 @@
-package com.kt.applicationkt.model.vo
+package com.kt.application.model.vo
 
 class TestVO {
     var age: Int = 0

@@ -1,6 +1,6 @@
-package com.kt.applicationkt.service;
+package com.kt.application.service;
 
-import com.kt.applicationkt.model.po.GrantResultProvide6;
+import com.kt.application.model.po.GrantResultProvide6;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

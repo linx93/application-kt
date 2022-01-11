@@ -1,4 +1,4 @@
-package com.kt.applicationkt
+package com.kt.application
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

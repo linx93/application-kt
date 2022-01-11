@@ -1,6 +1,6 @@
-package com.kt.applicationkt.mapper;
+package com.kt.application.mapper;
 
-import com.kt.applicationkt.model.po.GrantResultProvide6;
+import com.kt.application.model.po.GrantResultProvide6;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper
 

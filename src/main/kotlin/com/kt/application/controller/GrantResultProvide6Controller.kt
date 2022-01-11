@@ -1,8 +1,8 @@
-package com.kt.applicationkt.controller;
+package com.kt.application.controller;
 
 
-import com.kt.applicationkt.model.po.GrantResultProvide6
-import com.kt.applicationkt.service.GrantResultProvide6Service
+import com.kt.application.model.po.GrantResultProvide6
+import com.kt.application.service.GrantResultProvide6Service
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 

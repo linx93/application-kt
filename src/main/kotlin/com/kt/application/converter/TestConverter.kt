@@ -1,7 +1,7 @@
-package com.kt.applicationkt.converter
+package com.kt.application.converter
 
-import com.kt.applicationkt.model.po.TestPO
-import com.kt.applicationkt.model.vo.TestVO
+import com.kt.application.model.po.TestPO
+import com.kt.application.model.vo.TestVO
 import org.mapstruct.InheritInverseConfiguration
 import org.mapstruct.Mapper
 import org.mapstruct.Mapping

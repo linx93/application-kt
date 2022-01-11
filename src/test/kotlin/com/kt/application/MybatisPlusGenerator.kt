@@ -1,4 +1,4 @@
-package com.kt.applicationkt
+package com.kt.application
 
 import com.baomidou.mybatisplus.annotation.DbType
 import com.baomidou.mybatisplus.annotation.IdType
@@ -55,7 +55,7 @@ class MybatisPlusGenerator {
         val pc = PackageConfig()
         //pc.setModuleName("src"); //模块名
         //包  com.atguigu.eduservice
-        pc.parent = "com.kt.applicationkt"
+        pc.parent = "com.kt.application"
         pc.controller = "controller"
         pc.entity = "model.po"
         pc.service = "service"

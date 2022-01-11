@@ -1,10 +1,9 @@
-package com.kt.applicationkt
+package com.kt.application
 
-import com.kt.applicationkt.converter.TestConverter
-import com.kt.applicationkt.model.po.TestPO
-import com.kt.applicationkt.model.vo.TestVO
+import com.kt.application.converter.TestConverter
+import com.kt.application.model.po.TestPO
+import com.kt.application.model.vo.TestVO
 import org.junit.jupiter.api.Test
-import org.mapstruct.factory.Mappers
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
 

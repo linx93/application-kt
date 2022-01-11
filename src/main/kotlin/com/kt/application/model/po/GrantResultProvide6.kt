@@ -1,4 +1,4 @@
-package com.kt.applicationkt.model.po;
+package com.kt.application.model.po;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

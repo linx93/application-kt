@@ -1,4 +1,4 @@
-package com.kt.applicationkt.model.po
+package com.kt.application.model.po
 
 class TestPO {
     var id: Int = 0
